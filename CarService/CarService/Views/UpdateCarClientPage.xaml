@@ -1,0 +1,80 @@
+﻿<Page x:Class="CarService.Views.UpdateCarClientPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      DataContext="{Binding Mode=OneWay, RelativeSource={RelativeSource Self}}"
+      xmlns:local="clr-namespace:CarService.Views"
+      mc:Ignorable="d" 
+      d:DesignHeight="550" d:DesignWidth="800"
+      Title="Добавление автомобиля">
+
+    <DockPanel>
+        <Label DockPanel.Dock="Top"  Content="Добавление автомобия" x:Name="headerLabel"
+           FontSize="26" FontWeight="Bold" Margin="0 0 0 25" />
+        <Grid Margin="42">
+        <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="230" />
+                <ColumnDefinition Width="1*" />
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="250" />
+                <RowDefinition Height="50" />
+                <RowDefinition />
+            </Grid.RowDefinitions>
+            <Image Margin="10" Source="{Binding Path=CarClient.imageCar, Converter={StaticResource imageCarConverter}}" />
+            <Button Grid.Row="1" Margin="5" Content="Изменить" Style="{DynamicResource MaterialDesignFlatAccentBgButton}" Click="updateImage" HorizontalAlignment="Center" BorderBrush="Navy" BorderThickness="1"/>
+        </Grid>
+        <Grid Grid.Column="1" Grid.RowSpan="3">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="150" />
+                <ColumnDefinition Width="1*" />
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="40" />
+                <RowDefinition Height="50" />
+                <RowDefinition Height="40" />
+                <RowDefinition Height="40" />
+                <RowDefinition Height="40" />
+                <RowDefinition Height="40" />
+                <RowDefinition Height="40" />
+                <RowDefinition Height="40" />
+                <RowDefinition Height="40" />
+                <RowDefinition Height="40" />
+                <RowDefinition Height="1*" />
+            </Grid.RowDefinitions>
+            <Label Content="Vin:" VerticalAlignment="Center" HorizontalAlignment="Left" />
+            <TextBox Grid.Column="1" Name="vin" Padding="10" VerticalAlignment="Center" Text="{Binding CarClient.Vin}" Style="{DynamicResource MaterialDesignOutlinedTextBox}" />
+            <Label Content="Владелец:" Grid.Row="1" VerticalAlignment="Center" HorizontalAlignment="Left" Margin="0 5 0 0"/>
+            <ComboBox Grid.Column="1" Grid.Row="1" Padding="10" Name="clientId"  ItemsSource="{Binding Clients}" SelectedItem="{Binding Client}"  Margin="0 5 0 0" VerticalAlignment="Center" Style="{DynamicResource MaterialDesignOutlinedComboBox}">
+                <ComboBox.ItemTemplate>
+                    <DataTemplate>
+                        <TextBlock>
+                <Run Text="{Binding Fio}" /> 
+                        </TextBlock>
+                    </DataTemplate>
+                </ComboBox.ItemTemplate>
+            </ComboBox>
+            <Label Content="Марка:" Grid.Row="2" VerticalAlignment="Center" HorizontalAlignment="Left"  Margin="0 5 0 0" />
+            <TextBox Grid.Column="1" Grid.Row="2" Name="marka" Text="{Binding CarClient.Marka}" Padding="10" VerticalAlignment="Center"  Margin="0 5 0 0" Style="{DynamicResource MaterialDesignOutlinedTextBox}" />
+            <Label Content="Модель:" Grid.Row="3" VerticalAlignment="Center" HorizontalAlignment="Left"  Margin="0 5 0 0" />
+            <TextBox Grid.Column="1" Grid.Row="3" Name="model" Padding="10" Text="{Binding CarClient.Model}" VerticalAlignment="Center"  Margin="0 5 0 0"  Style="{DynamicResource MaterialDesignOutlinedTextBox}"/>
+            <Label Content="Тип двигателя:" Grid.Row="4" VerticalAlignment="Center" HorizontalAlignment="Left" Cursor=""  Margin="0 5 0 0"/>
+            <TextBox Padding="10" Grid.Column="1" Grid.Row="4" Name="typeEngine" Text="{Binding CarClient.TypeEngine}"  Margin="0 5 0 0" Style="{DynamicResource MaterialDesignOutlinedTextBox}"/>
+            <Label Content="Год выпуска:" Grid.Row="5" VerticalAlignment="Center" HorizontalAlignment="Left" Cursor=""  Margin="0 5 0 0"/>
+            <TextBox Padding="10" Grid.Column="1" Grid.Row="5" Name="yearRelese" Text="{Binding CarClient.YearRelese}"  Margin="0 5 0 0"  Style="{DynamicResource MaterialDesignOutlinedTextBox}"/>
+            <Label Content="Проебг:" Grid.Row="6" VerticalAlignment="Center" HorizontalAlignment="Left" Cursor=""  Margin="0 5 0 0"/>
+            <TextBox Padding="10" Grid.Column="1" Grid.Row="6" Name="run" Text="{Binding CarClient.Run}"  Margin="0 5 0 0"  Style="{DynamicResource MaterialDesignOutlinedTextBox}"/>
+            <Label Content="Номерной знак:" Grid.Row="7" VerticalAlignment="Center" HorizontalAlignment="Left" Cursor=""  Margin="0 5 0 0"/>
+            <TextBox Padding="10" Grid.Column="1" Grid.Row="7"  Name="stateNumber" Text="{Binding CarClient.StateNumber}"  Margin="0 5 0 0" Style="{DynamicResource MaterialDesignOutlinedTextBox}"/>
+            <Label Content="Цвет:" Grid.Row="8" VerticalAlignment="Center" HorizontalAlignment="Left" Cursor=""  Margin="0 5 0 0"/>
+            <TextBox Padding="10" Grid.Column="1" Grid.Row="8" Name="color" Text="{Binding CarClient.Color}"  Margin="0 5 0 0" Style="{DynamicResource MaterialDesignOutlinedTextBox}"/>
+            <Label Content="Дата регистрации:" Grid.Row="9" VerticalAlignment="Center" HorizontalAlignment="Left" Cursor=""  Margin="0 5 0 0"/>
+            <DatePicker IsTodayHighlighted="True" Grid.Column="1" Grid.Row="9" x:Name="serviceDatePicker" Text="{Binding CarClient.DateRegistration}"/>
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Right" Grid.Row="10" Grid.Column="1">
+                <Button Content="Сохранить" Width="150"  Click="saveChanges" BorderBrush="Navy" BorderThickness="1"/>
+                <Button Content="Назад" Width="150" Margin="5 0" Click="goBack" IsCancel="True" BorderBrush="Navy" BorderThickness="1"/>
+            </StackPanel>
+            </Grid>
+    </DockPanel>
+</Page>

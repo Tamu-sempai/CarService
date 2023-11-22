@@ -1,0 +1,44 @@
+﻿<Page x:Class="CarService.Views.UpdateWorkZakazNaryadPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      DataContext="{Binding Mode=OneWay, RelativeSource={RelativeSource Self}}"
+      xmlns:local="clr-namespace:CarService.Views"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="900"
+      Title="Добавление нового заказ-наряда">
+
+    <StackPanel>
+        <Label DockPanel.Dock="Top"  Content="Добавление нового заказ-наряда" x:Name="headerLabel"
+           FontSize="26" FontWeight="Bold" Margin="0 0 0 25" />
+        <Grid Height="600" Width="900" Margin="0 20 0 0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="1*" />
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="50" />
+                <RowDefinition Height="500" />
+                <RowDefinition Height="1*" />
+            </Grid.RowDefinitions>
+            <Label Grid.Row="0" Height="50" Content="Необходимые запчасти" FontSize="18" FontWeight="Bold" Margin="0 0 0 25" HorizontalAlignment="Center"/>
+            <ListBox Margin="0 0 0 70" Name="bushSpecies" ItemsSource="{Binding Zapchasts}" Width="800" Height="400" SelectedValuePath="Id" SelectedIndex="0" Grid.Row="1">
+                <ListBox.ItemTemplate>
+                    <DataTemplate x:Name="yh">
+                        <TextBlock VerticalAlignment="Center" FontSize="20">
+                            <CheckBox Content="{Binding Name}" Checked="checkedWork"
+                                      Tag="{Binding ZapchastId}" Name="workChekBox" />
+                            <Run Text="{Binding Price, StringFormat={}{0} руб.}" />
+                            (
+                            <Run Text="{Binding Manufacturer}"/>
+                            )
+                        </TextBlock>
+                    </DataTemplate>
+                </ListBox.ItemTemplate>
+            </ListBox>
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Right" Grid.Row="2" Grid.Column="1">
+                <Button Content="Coхранить" Width="150" Click="save" BorderBrush="Navy" BorderThickness="1"/>
+            </StackPanel>
+        </Grid>
+    </StackPanel>
+</Page>

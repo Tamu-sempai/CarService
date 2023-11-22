@@ -1,0 +1,1245 @@
+C:\Users\KDFX Team\Desktop\CarService\CarService\obj\Debug\net6.0-windows\CarService.csproj.AssemblyReference.cache
+C:\Users\KDFX Team\Desktop\CarService\CarService\obj\Debug\net6.0-windows\Views\MainWindow.g.cs
+C:\Users\KDFX Team\Desktop\CarService\CarService\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\KDFX Team\Desktop\CarService\CarService\obj\Debug\net6.0-windows\CarService_MarkupCompile.cache
+C:\Users\KDFX Team\Desktop\CarService\CarService\obj\Debug\net6.0-windows\CarService_MarkupCompile.lref
+C:\Users\KDFX Team\Desktop\CarService\CarService\bin\Debug\net6.0-windows\CarService.exe
+C:\Users\KDFX Team\Desktop\CarService\CarService\bin\Debug\net6.0-windows\CarService.deps.json
+C:\Users\KDFX Team\Desktop\CarService\CarService\bin\Debug\net6.0-windows\CarService.runtimeconfig.json
+C:\Users\KDFX Team\Desktop\CarService\CarService\bin\Debug\net6.0-windows\CarService.dll
+C:\Users\KDFX Team\Desktop\CarService\CarService\bin\Debug\net6.0-windows\CarService.pdb
+C:\Users\KDFX Team\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\KDFX Team\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\KDFX Team\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\KDFX Team\Desktop\CarService\CarService\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+C:\Users\KDFX Team\Desktop\CarService\CarService\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\KDFX Team\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\KDFX Team\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\KDFX Team\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\KDFX Team\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\KDFX Team\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\KDFX Team\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\KDFX Team\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\KDFX Team\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\KDFX Team\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\KDFX Team\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\KDFX Team\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\KDFX Team\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\KDFX Team\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\KDFX Team\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\KDFX Team\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\KDFX Team\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\KDFX Team\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\KDFX Team\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\KDFX Team\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\KDFX Team\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\KDFX Team\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\KDFX Team\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\KDFX Team\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\KDFX Team\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\KDFX Team\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\KDFX Team\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\KDFX Team\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\KDFX Team\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+C:\Users\KDFX Team\Desktop\CarService\CarService\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\KDFX Team\Desktop\CarService\CarService\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\KDFX Team\Desktop\CarService\CarService\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\KDFX Team\Desktop\CarService\CarService\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\KDFX Team\Desktop\CarService\CarService\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\KDFX Team\Desktop\CarService\CarService\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\KDFX Team\Desktop\CarService\CarService\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\KDFX Team\Desktop\CarService\CarService\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\KDFX Team\Desktop\CarService\CarService\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\KDFX Team\Desktop\CarService\CarService\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\KDFX Team\Desktop\CarService\CarService\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\KDFX Team\Desktop\CarService\CarService\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\KDFX Team\Desktop\CarService\CarService\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\KDFX Team\Desktop\CarService\CarService\obj\Debug\net6.0-windows\App.baml
+C:\Users\KDFX Team\Desktop\CarService\CarService\obj\Debug\net6.0-windows\Views\MainWindow.baml
+C:\Users\KDFX Team\Desktop\CarService\CarService\obj\Debug\net6.0-windows\CarService.g.resources
+C:\Users\KDFX Team\Desktop\CarService\CarService\obj\Debug\net6.0-windows\CarService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KDFX Team\Desktop\CarService\CarService\obj\Debug\net6.0-windows\CarService.AssemblyInfoInputs.cache
+C:\Users\KDFX Team\Desktop\CarService\CarService\obj\Debug\net6.0-windows\CarService.AssemblyInfo.cs
+C:\Users\KDFX Team\Desktop\CarService\CarService\obj\Debug\net6.0-windows\CarService.csproj.CoreCompileInputs.cache
+C:\Users\KDFX Team\Desktop\CarService\CarService\obj\Debug\net6.0-windows\CarService.csproj.CopyComplete
+C:\Users\KDFX Team\Desktop\CarService\CarService\obj\Debug\net6.0-windows\CarService.dll
+C:\Users\KDFX Team\Desktop\CarService\CarService\obj\Debug\net6.0-windows\refint\CarService.dll
+C:\Users\KDFX Team\Desktop\CarService\CarService\obj\Debug\net6.0-windows\CarService.pdb
+C:\Users\KDFX Team\Desktop\CarService\CarService\obj\Debug\net6.0-windows\CarService.genruntimeconfig.cache
+C:\Users\KDFX Team\Desktop\CarService\CarService\obj\Debug\net6.0-windows\ref\CarService.dll
+C:\Users\KDFX Team\Desktop\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\CarService.csproj.AssemblyReference.cache
+C:\Users\KDFX Team\Desktop\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\Views\AutoZapchastPage.g.cs
+C:\Users\KDFX Team\Desktop\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\Views\CarClientPage.g.cs
+C:\Users\KDFX Team\Desktop\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\Views\ClientPage.g.cs
+C:\Users\KDFX Team\Desktop\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\Views\LoginWindow.g.cs
+C:\Users\KDFX Team\Desktop\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\Views\MainWindow.g.cs
+C:\Users\KDFX Team\Desktop\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\Views\SparePartsPage.g.cs
+C:\Users\KDFX Team\Desktop\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\Views\UpdateCarClientPage.g.cs
+C:\Users\KDFX Team\Desktop\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\Views\UpdateClientPage.g.cs
+C:\Users\KDFX Team\Desktop\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\KDFX Team\Desktop\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\KDFX Team\Desktop\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\CarService_MarkupCompile.cache
+C:\Users\KDFX Team\Desktop\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\CarService_MarkupCompile.lref
+C:\Users\User\Desktop\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\CarService.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\Views\AutoZapchastPage.g.cs
+C:\Users\User\Desktop\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\Views\CarClientPage.g.cs
+C:\Users\User\Desktop\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\Views\ClientPage.g.cs
+C:\Users\User\Desktop\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\Views\LoginWindow.g.cs
+C:\Users\User\Desktop\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\Views\MainWindow.g.cs
+C:\Users\User\Desktop\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\Views\SparePartsPage.g.cs
+C:\Users\User\Desktop\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\Views\UpdateCarClientPage.g.cs
+C:\Users\User\Desktop\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\Views\UpdateClientPage.g.cs
+C:\Users\User\Desktop\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\User\Desktop\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\User\Desktop\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\CarService_MarkupCompile.cache
+C:\Users\User\Desktop\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\CarService_MarkupCompile.lref
+C:\Users\User\Desktop\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\CarService.dll
+C:\Users\User\Desktop\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\refint\CarService.dll
+C:\Users\User\Desktop\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\CarService.pdb
+C:\Users\User\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarClientFoto\AudiA1.jpg
+C:\Users\User\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarClientFoto\CheryBouns.jpg
+C:\Users\User\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarClientFoto\FordExplorer.jpg
+C:\Users\User\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarClientFoto\HondaCivic.jpg
+C:\Users\User\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarClientFoto\InfinitiEX.jpg
+C:\Users\User\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CarAudiA1(b).jpg
+C:\Users\User\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CarAudiA1(d).jpg
+C:\Users\User\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CarAudiA2(b).jpg
+C:\Users\User\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CarAudiA2(d).jpg
+C:\Users\User\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CarAudiA4(b).jpg
+C:\Users\User\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CarAudiA4(d).jpg
+C:\Users\User\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CarAudiA7(b).jpg
+C:\Users\User\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CarAudiA7(d).jpg
+C:\Users\User\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CarAudiQ3(b).jpg
+C:\Users\User\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CarAudiQ3(d).jpg
+C:\Users\User\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CarAudiTT(b).jpg
+C:\Users\User\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CarAudiTT(d).jpg
+C:\Users\User\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CarChevAstra(b).jpg
+C:\Users\User\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CarChevAstra(d).jpg
+C:\Users\User\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CarChevCamaro(b).jpg
+C:\Users\User\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CarChevCorvette(b).jpg
+C:\Users\User\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CarChevImpala(b).jpg
+C:\Users\User\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\CarService.exe
+C:\Users\User\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\CarService.deps.json
+C:\Users\User\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\CarService.runtimeconfig.json
+C:\Users\User\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\CarService.dll
+C:\Users\User\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\CarService.pdb
+C:\Users\User\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\User\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\User\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\User\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+C:\Users\User\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\User\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\User\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\User\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\User\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\User\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\User\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\User\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\User\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\User\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\User\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\User\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+C:\Users\User\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\User\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\User\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\User\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\User\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\User\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\User\Desktop\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\App.baml
+C:\Users\User\Desktop\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\Views\AutoZapchastPage.baml
+C:\Users\User\Desktop\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\Views\CarClientPage.baml
+C:\Users\User\Desktop\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\Views\ClientPage.baml
+C:\Users\User\Desktop\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\Views\LoginWindow.baml
+C:\Users\User\Desktop\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\Views\MainWindow.baml
+C:\Users\User\Desktop\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\Views\SparePartsPage.baml
+C:\Users\User\Desktop\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\Views\UpdateCarClientPage.baml
+C:\Users\User\Desktop\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\Views\UpdateClientPage.baml
+C:\Users\User\Desktop\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\CarService.g.resources
+C:\Users\User\Desktop\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\CarService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\CarService.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\CarService.AssemblyInfo.cs
+C:\Users\User\Desktop\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\CarService.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\CarService.csproj.CopyComplete
+C:\Users\User\Desktop\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\CarService.genruntimeconfig.cache
+C:\Users\User\Desktop\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\ref\CarService.dll
+C:\Users\KDFX Team\Desktop\курсач\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarClientFoto\AudiA1.jpg
+C:\Users\KDFX Team\Desktop\курсач\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarClientFoto\HondaCivic.jpg
+C:\Users\KDFX Team\Desktop\курсач\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CarAudiA1(b).jpg
+C:\Users\KDFX Team\Desktop\курсач\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CarAudiA1(d).jpg
+C:\Users\KDFX Team\Desktop\курсач\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CarAudiA2(b).jpg
+C:\Users\KDFX Team\Desktop\курсач\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CarAudiA2(d).jpg
+C:\Users\KDFX Team\Desktop\курсач\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CarAudiA4(b).jpg
+C:\Users\KDFX Team\Desktop\курсач\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CarAudiA4(d).jpg
+C:\Users\KDFX Team\Desktop\курсач\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CarAudiA7(b).jpg
+C:\Users\KDFX Team\Desktop\курсач\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CarAudiA7(d).jpg
+C:\Users\KDFX Team\Desktop\курсач\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CarAudiQ3(b).jpg
+C:\Users\KDFX Team\Desktop\курсач\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CarAudiQ3(d).jpg
+C:\Users\KDFX Team\Desktop\курсач\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CarAudiTT(b).jpg
+C:\Users\KDFX Team\Desktop\курсач\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CarAudiTT(d).jpg
+C:\Users\KDFX Team\Desktop\курсач\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CarChevAstra(b).jpg
+C:\Users\KDFX Team\Desktop\курсач\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CarChevAstra(d).jpg
+C:\Users\KDFX Team\Desktop\курсач\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CarChevCamaro(b).jpg
+C:\Users\KDFX Team\Desktop\курсач\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CarChevCorvette(b).jpg
+C:\Users\KDFX Team\Desktop\курсач\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CarChevImpala(b).jpg
+C:\Users\KDFX Team\Desktop\курсач\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\CarService.exe
+C:\Users\KDFX Team\Desktop\курсач\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\CarService.deps.json
+C:\Users\KDFX Team\Desktop\курсач\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\CarService.runtimeconfig.json
+C:\Users\KDFX Team\Desktop\курсач\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\CarService.dll
+C:\Users\KDFX Team\Desktop\курсач\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\CarService.pdb
+C:\Users\KDFX Team\Desktop\курсач\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\KDFX Team\Desktop\курсач\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\KDFX Team\Desktop\курсач\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\KDFX Team\Desktop\курсач\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+C:\Users\KDFX Team\Desktop\курсач\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\KDFX Team\Desktop\курсач\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\KDFX Team\Desktop\курсач\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\KDFX Team\Desktop\курсач\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\KDFX Team\Desktop\курсач\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\KDFX Team\Desktop\курсач\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\KDFX Team\Desktop\курсач\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\KDFX Team\Desktop\курсач\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\KDFX Team\Desktop\курсач\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\KDFX Team\Desktop\курсач\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\KDFX Team\Desktop\курсач\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\KDFX Team\Desktop\курсач\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\KDFX Team\Desktop\курсач\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\KDFX Team\Desktop\курсач\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\KDFX Team\Desktop\курсач\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\KDFX Team\Desktop\курсач\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\KDFX Team\Desktop\курсач\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\KDFX Team\Desktop\курсач\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\KDFX Team\Desktop\курсач\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\KDFX Team\Desktop\курсач\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\KDFX Team\Desktop\курсач\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\KDFX Team\Desktop\курсач\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\KDFX Team\Desktop\курсач\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\KDFX Team\Desktop\курсач\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\KDFX Team\Desktop\курсач\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\KDFX Team\Desktop\курсач\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\KDFX Team\Desktop\курсач\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\KDFX Team\Desktop\курсач\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\KDFX Team\Desktop\курсач\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+C:\Users\KDFX Team\Desktop\курсач\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\KDFX Team\Desktop\курсач\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\KDFX Team\Desktop\курсач\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\KDFX Team\Desktop\курсач\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\KDFX Team\Desktop\курсач\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\KDFX Team\Desktop\курсач\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\KDFX Team\Desktop\курсач\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\KDFX Team\Desktop\курсач\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\KDFX Team\Desktop\курсач\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\KDFX Team\Desktop\курсач\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\KDFX Team\Desktop\курсач\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\KDFX Team\Desktop\курсач\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\KDFX Team\Desktop\курсач\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\KDFX Team\Desktop\курсач\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\CarService.csproj.AssemblyReference.cache
+C:\Users\KDFX Team\Desktop\курсач\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\Views\AutoZapchastPage.g.cs
+C:\Users\KDFX Team\Desktop\курсач\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\Views\CarClientPage.g.cs
+C:\Users\KDFX Team\Desktop\курсач\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\Views\ClientPage.g.cs
+C:\Users\KDFX Team\Desktop\курсач\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\Views\LoginWindow.g.cs
+C:\Users\KDFX Team\Desktop\курсач\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\Views\MainWindow.g.cs
+C:\Users\KDFX Team\Desktop\курсач\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\Views\SparePartsPage.g.cs
+C:\Users\KDFX Team\Desktop\курсач\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\Views\UpdateCarClientPage.g.cs
+C:\Users\KDFX Team\Desktop\курсач\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\Views\UpdateClientPage.g.cs
+C:\Users\KDFX Team\Desktop\курсач\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\KDFX Team\Desktop\курсач\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\KDFX Team\Desktop\курсач\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\CarService_MarkupCompile.cache
+C:\Users\KDFX Team\Desktop\курсач\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\CarService_MarkupCompile.lref
+C:\Users\KDFX Team\Desktop\курсач\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\App.baml
+C:\Users\KDFX Team\Desktop\курсач\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\Views\AutoZapchastPage.baml
+C:\Users\KDFX Team\Desktop\курсач\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\Views\CarClientPage.baml
+C:\Users\KDFX Team\Desktop\курсач\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\Views\ClientPage.baml
+C:\Users\KDFX Team\Desktop\курсач\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\Views\LoginWindow.baml
+C:\Users\KDFX Team\Desktop\курсач\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\Views\MainWindow.baml
+C:\Users\KDFX Team\Desktop\курсач\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\Views\SparePartsPage.baml
+C:\Users\KDFX Team\Desktop\курсач\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\Views\UpdateCarClientPage.baml
+C:\Users\KDFX Team\Desktop\курсач\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\Views\UpdateClientPage.baml
+C:\Users\KDFX Team\Desktop\курсач\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\CarService.g.resources
+C:\Users\KDFX Team\Desktop\курсач\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\CarService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KDFX Team\Desktop\курсач\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\CarService.AssemblyInfoInputs.cache
+C:\Users\KDFX Team\Desktop\курсач\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\CarService.AssemblyInfo.cs
+C:\Users\KDFX Team\Desktop\курсач\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\CarService.csproj.CoreCompileInputs.cache
+C:\Users\KDFX Team\Desktop\курсач\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\CarService.csproj.CopyComplete
+C:\Users\KDFX Team\Desktop\курсач\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\CarService.dll
+C:\Users\KDFX Team\Desktop\курсач\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\refint\CarService.dll
+C:\Users\KDFX Team\Desktop\курсач\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\CarService.pdb
+C:\Users\KDFX Team\Desktop\курсач\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\CarService.genruntimeconfig.cache
+C:\Users\KDFX Team\Desktop\курсач\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\ref\CarService.dll
+C:\Users\KDFX Team\Desktop\курсач\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\Views\WorkPage.g.cs
+C:\Users\KDFX Team\Desktop\курсач\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\Views\WorkPage.baml
+C:\Users\307-07\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarClientFoto\AudiA1.jpg
+C:\Users\307-07\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarClientFoto\CheryBouns.jpg
+C:\Users\307-07\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarClientFoto\FordExplorer.jpg
+C:\Users\307-07\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarClientFoto\HondaCivic.jpg
+C:\Users\307-07\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarClientFoto\InfinitiEX.jpg
+C:\Users\307-07\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CarAudiA1(b).jpg
+C:\Users\307-07\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CarAudiA1(d).jpg
+C:\Users\307-07\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CarAudiA2(b).jpg
+C:\Users\307-07\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CarAudiA2(d).jpg
+C:\Users\307-07\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CarAudiA4(b).jpg
+C:\Users\307-07\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CarAudiA4(d).jpg
+C:\Users\307-07\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CarAudiA7(b).jpg
+C:\Users\307-07\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CarAudiA7(d).jpg
+C:\Users\307-07\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CarAudiQ3(b).jpg
+C:\Users\307-07\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CarAudiQ3(d).jpg
+C:\Users\307-07\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CarAudiTT(b).jpg
+C:\Users\307-07\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CarAudiTT(d).jpg
+C:\Users\307-07\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CarChevAstra(b).jpg
+C:\Users\307-07\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CarChevAstra(d).jpg
+C:\Users\307-07\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CarChevCamaro(b).jpg
+C:\Users\307-07\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CarChevCorvette(b).jpg
+C:\Users\307-07\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CarChevImpala(b).jpg
+C:\Users\307-07\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\CarService.exe
+C:\Users\307-07\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\CarService.deps.json
+C:\Users\307-07\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\CarService.runtimeconfig.json
+C:\Users\307-07\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\CarService.dll
+C:\Users\307-07\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\CarService.pdb
+C:\Users\307-07\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\307-07\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\307-07\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\307-07\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+C:\Users\307-07\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\307-07\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\307-07\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\307-07\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\307-07\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\307-07\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\307-07\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\307-07\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\307-07\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\307-07\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\307-07\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\307-07\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\307-07\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\307-07\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\307-07\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\307-07\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\307-07\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\307-07\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\307-07\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\307-07\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\307-07\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\307-07\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\307-07\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\307-07\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\307-07\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\307-07\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\307-07\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\307-07\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\307-07\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+C:\Users\307-07\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\307-07\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\307-07\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\307-07\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\307-07\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\307-07\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\307-07\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\307-07\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\307-07\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\307-07\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\307-07\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\307-07\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\307-07\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\307-07\Desktop\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\CarService.csproj.AssemblyReference.cache
+C:\Users\307-07\Desktop\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\Views\AutoZapchastPage.g.cs
+C:\Users\307-07\Desktop\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\Views\CarClientPage.g.cs
+C:\Users\307-07\Desktop\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\Views\ClientPage.g.cs
+C:\Users\307-07\Desktop\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\Views\LoginWindow.g.cs
+C:\Users\307-07\Desktop\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\Views\MainWindow.g.cs
+C:\Users\307-07\Desktop\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\Views\SparePartsPage.g.cs
+C:\Users\307-07\Desktop\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\Views\UpdateCarClientPage.g.cs
+C:\Users\307-07\Desktop\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\Views\UpdateClientPage.g.cs
+C:\Users\307-07\Desktop\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\Views\WorkPage.g.cs
+C:\Users\307-07\Desktop\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\307-07\Desktop\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\307-07\Desktop\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\CarService_MarkupCompile.cache
+C:\Users\307-07\Desktop\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\CarService_MarkupCompile.lref
+C:\Users\307-07\Desktop\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\App.baml
+C:\Users\307-07\Desktop\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\Views\AutoZapchastPage.baml
+C:\Users\307-07\Desktop\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\Views\CarClientPage.baml
+C:\Users\307-07\Desktop\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\Views\ClientPage.baml
+C:\Users\307-07\Desktop\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\Views\LoginWindow.baml
+C:\Users\307-07\Desktop\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\Views\MainWindow.baml
+C:\Users\307-07\Desktop\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\Views\SparePartsPage.baml
+C:\Users\307-07\Desktop\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\Views\UpdateCarClientPage.baml
+C:\Users\307-07\Desktop\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\Views\UpdateClientPage.baml
+C:\Users\307-07\Desktop\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\Views\WorkPage.baml
+C:\Users\307-07\Desktop\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\CarService.g.resources
+C:\Users\307-07\Desktop\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\CarService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\307-07\Desktop\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\CarService.AssemblyInfoInputs.cache
+C:\Users\307-07\Desktop\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\CarService.AssemblyInfo.cs
+C:\Users\307-07\Desktop\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\CarService.csproj.CoreCompileInputs.cache
+C:\Users\307-07\Desktop\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\CarService.csproj.CopyComplete
+C:\Users\307-07\Desktop\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\CarService.dll
+C:\Users\307-07\Desktop\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\refint\CarService.dll
+C:\Users\307-07\Desktop\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\CarService.pdb
+C:\Users\307-07\Desktop\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\CarService.genruntimeconfig.cache
+C:\Users\307-07\Desktop\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\ref\CarService.dll
+C:\Users\KDFX Team\Desktop\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\Views\WorkPage.g.cs
+C:\Users\KDFX Team\Desktop\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\CarService.dll
+C:\Users\KDFX Team\Desktop\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\refint\CarService.dll
+C:\Users\KDFX Team\Desktop\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\CarService.pdb
+C:\Users\KDFX Team\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarClientFoto\AudiA1.jpg
+C:\Users\KDFX Team\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarClientFoto\CheryBouns.jpg
+C:\Users\KDFX Team\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarClientFoto\FordExplorer.jpg
+C:\Users\KDFX Team\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarClientFoto\HondaCivic.jpg
+C:\Users\KDFX Team\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarClientFoto\InfinitiEX.jpg
+C:\Users\KDFX Team\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CarAudiA1(b).jpg
+C:\Users\KDFX Team\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CarAudiA1(d).jpg
+C:\Users\KDFX Team\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CarAudiA2(b).jpg
+C:\Users\KDFX Team\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CarAudiA2(d).jpg
+C:\Users\KDFX Team\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CarAudiA4(b).jpg
+C:\Users\KDFX Team\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CarAudiA4(d).jpg
+C:\Users\KDFX Team\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CarAudiA7(b).jpg
+C:\Users\KDFX Team\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CarAudiA7(d).jpg
+C:\Users\KDFX Team\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CarAudiQ3(b).jpg
+C:\Users\KDFX Team\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CarAudiQ3(d).jpg
+C:\Users\KDFX Team\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CarAudiTT(b).jpg
+C:\Users\KDFX Team\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CarAudiTT(d).jpg
+C:\Users\KDFX Team\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CarChevAstra(b).jpg
+C:\Users\KDFX Team\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CarChevAstra(d).jpg
+C:\Users\KDFX Team\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CarChevCamaro(b).jpg
+C:\Users\KDFX Team\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CarChevCorvette(b).jpg
+C:\Users\KDFX Team\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CarChevImpala(b).jpg
+C:\Users\KDFX Team\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\CarService.exe
+C:\Users\KDFX Team\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\CarService.deps.json
+C:\Users\KDFX Team\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\CarService.runtimeconfig.json
+C:\Users\KDFX Team\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\CarService.dll
+C:\Users\KDFX Team\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\CarService.pdb
+C:\Users\KDFX Team\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\KDFX Team\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\KDFX Team\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\KDFX Team\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+C:\Users\KDFX Team\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\KDFX Team\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\KDFX Team\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\KDFX Team\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\KDFX Team\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\KDFX Team\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\KDFX Team\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\KDFX Team\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\KDFX Team\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\KDFX Team\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\KDFX Team\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\KDFX Team\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\KDFX Team\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\KDFX Team\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\KDFX Team\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\KDFX Team\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\KDFX Team\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\KDFX Team\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\KDFX Team\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\KDFX Team\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\KDFX Team\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\KDFX Team\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\KDFX Team\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\KDFX Team\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\KDFX Team\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\KDFX Team\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\KDFX Team\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\KDFX Team\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\KDFX Team\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+C:\Users\KDFX Team\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\KDFX Team\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\KDFX Team\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\KDFX Team\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\KDFX Team\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\KDFX Team\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\KDFX Team\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\KDFX Team\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\KDFX Team\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\KDFX Team\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\KDFX Team\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\KDFX Team\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\KDFX Team\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\KDFX Team\Desktop\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\App.baml
+C:\Users\KDFX Team\Desktop\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\Views\AutoZapchastPage.baml
+C:\Users\KDFX Team\Desktop\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\Views\CarClientPage.baml
+C:\Users\KDFX Team\Desktop\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\Views\ClientPage.baml
+C:\Users\KDFX Team\Desktop\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\Views\LoginWindow.baml
+C:\Users\KDFX Team\Desktop\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\Views\MainWindow.baml
+C:\Users\KDFX Team\Desktop\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\Views\SparePartsPage.baml
+C:\Users\KDFX Team\Desktop\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\Views\UpdateCarClientPage.baml
+C:\Users\KDFX Team\Desktop\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\Views\UpdateClientPage.baml
+C:\Users\KDFX Team\Desktop\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\Views\WorkPage.baml
+C:\Users\KDFX Team\Desktop\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\CarService.g.resources
+C:\Users\KDFX Team\Desktop\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\CarService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KDFX Team\Desktop\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\CarService.AssemblyInfoInputs.cache
+C:\Users\KDFX Team\Desktop\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\CarService.AssemblyInfo.cs
+C:\Users\KDFX Team\Desktop\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\CarService.csproj.CoreCompileInputs.cache
+C:\Users\KDFX Team\Desktop\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\CarService.csproj.CopyComplete
+C:\Users\KDFX Team\Desktop\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\CarService.genruntimeconfig.cache
+C:\Users\KDFX Team\Desktop\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\ref\CarService.dll
+C:\Users\KDFX Team\Desktop\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\Views\UpdateWorkPage.g.cs
+C:\Users\KDFX Team\Desktop\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\Views\UpdateWorkPage.baml
+C:\Users\307-03\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarClientFoto\AudiA1.jpg
+C:\Users\307-03\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarClientFoto\CheryBouns.jpg
+C:\Users\307-03\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarClientFoto\FordExplorer.jpg
+C:\Users\307-03\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarClientFoto\HondaCivic.jpg
+C:\Users\307-03\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarClientFoto\InfinitiEX.jpg
+C:\Users\307-03\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CarAudiA1(b).jpg
+C:\Users\307-03\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CarAudiA1(d).jpg
+C:\Users\307-03\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CarAudiA2(b).jpg
+C:\Users\307-03\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CarAudiA2(d).jpg
+C:\Users\307-03\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CarAudiA4(b).jpg
+C:\Users\307-03\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CarAudiA4(d).jpg
+C:\Users\307-03\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CarAudiA7(b).jpg
+C:\Users\307-03\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CarAudiA7(d).jpg
+C:\Users\307-03\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CarAudiQ3(b).jpg
+C:\Users\307-03\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CarAudiQ3(d).jpg
+C:\Users\307-03\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CarAudiTT(b).jpg
+C:\Users\307-03\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CarAudiTT(d).jpg
+C:\Users\307-03\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CarChevAstra(b).jpg
+C:\Users\307-03\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CarChevAstra(d).jpg
+C:\Users\307-03\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CarChevCamaro(b).jpg
+C:\Users\307-03\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CarChevCorvette(b).jpg
+C:\Users\307-03\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CarChevImpala(b).jpg
+C:\Users\307-03\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\CarService.exe
+C:\Users\307-03\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\CarService.deps.json
+C:\Users\307-03\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\CarService.runtimeconfig.json
+C:\Users\307-03\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\CarService.dll
+C:\Users\307-03\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\CarService.pdb
+C:\Users\307-03\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\307-03\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\307-03\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\307-03\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+C:\Users\307-03\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\307-03\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\307-03\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\307-03\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\307-03\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\307-03\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\307-03\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\307-03\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\307-03\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\307-03\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\307-03\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\307-03\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\307-03\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\307-03\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\307-03\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\307-03\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\307-03\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\307-03\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\307-03\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\307-03\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\307-03\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\307-03\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\307-03\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\307-03\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\307-03\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\307-03\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\307-03\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\307-03\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\307-03\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+C:\Users\307-03\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\307-03\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\307-03\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\307-03\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\307-03\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\307-03\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\307-03\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\307-03\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\307-03\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\307-03\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\307-03\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\307-03\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\307-03\Desktop\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\307-03\Desktop\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\CarService.csproj.AssemblyReference.cache
+C:\Users\307-03\Desktop\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\Views\AutoZapchastPage.g.cs
+C:\Users\307-03\Desktop\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\Views\CarClientPage.g.cs
+C:\Users\307-03\Desktop\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\Views\ClientPage.g.cs
+C:\Users\307-03\Desktop\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\Views\LoginWindow.g.cs
+C:\Users\307-03\Desktop\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\Views\MainWindow.g.cs
+C:\Users\307-03\Desktop\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\Views\SparePartsPage.g.cs
+C:\Users\307-03\Desktop\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\Views\UpdateCarClientPage.g.cs
+C:\Users\307-03\Desktop\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\Views\UpdateClientPage.g.cs
+C:\Users\307-03\Desktop\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\Views\UpdateWorkPage.g.cs
+C:\Users\307-03\Desktop\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\Views\WorkPage.g.cs
+C:\Users\307-03\Desktop\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\307-03\Desktop\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\307-03\Desktop\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\CarService_MarkupCompile.cache
+C:\Users\307-03\Desktop\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\CarService_MarkupCompile.lref
+C:\Users\307-03\Desktop\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\App.baml
+C:\Users\307-03\Desktop\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\Views\AutoZapchastPage.baml
+C:\Users\307-03\Desktop\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\Views\CarClientPage.baml
+C:\Users\307-03\Desktop\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\Views\ClientPage.baml
+C:\Users\307-03\Desktop\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\Views\LoginWindow.baml
+C:\Users\307-03\Desktop\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\Views\MainWindow.baml
+C:\Users\307-03\Desktop\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\Views\SparePartsPage.baml
+C:\Users\307-03\Desktop\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\Views\UpdateCarClientPage.baml
+C:\Users\307-03\Desktop\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\Views\UpdateClientPage.baml
+C:\Users\307-03\Desktop\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\Views\UpdateWorkPage.baml
+C:\Users\307-03\Desktop\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\Views\WorkPage.baml
+C:\Users\307-03\Desktop\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\CarService.g.resources
+C:\Users\307-03\Desktop\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\CarService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\307-03\Desktop\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\CarService.AssemblyInfoInputs.cache
+C:\Users\307-03\Desktop\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\CarService.AssemblyInfo.cs
+C:\Users\307-03\Desktop\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\CarService.csproj.CoreCompileInputs.cache
+C:\Users\307-03\Desktop\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\CarService.csproj.CopyComplete
+C:\Users\307-03\Desktop\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\CarService.dll
+C:\Users\307-03\Desktop\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\refint\CarService.dll
+C:\Users\307-03\Desktop\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\CarService.pdb
+C:\Users\307-03\Desktop\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\CarService.genruntimeconfig.cache
+C:\Users\307-03\Desktop\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\ref\CarService.dll
+C:\Users\KDFX Team\Desktop\курсач\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarClientFoto\no_image.jpg
+C:\Users\KDFX Team\Desktop\курсач\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\Views\ZakazNaryadPage.g.cs
+C:\Users\KDFX Team\Desktop\курсач\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\Views\ZakazNaryadPage.baml
+C:\Users\KDFX Team\Desktop\курсач\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\Views\ZapchastZakazNaryadPage.g.cs
+C:\Users\User\Desktop\CarService\CarService\obj\Debug\net6.0-windows\CarService.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\CarService\CarService\obj\Debug\net6.0-windows\Views\AutoZapchastPage.g.cs
+C:\Users\User\Desktop\CarService\CarService\obj\Debug\net6.0-windows\Views\CarClientPage.g.cs
+C:\Users\User\Desktop\CarService\CarService\obj\Debug\net6.0-windows\Views\ClientPage.g.cs
+C:\Users\User\Desktop\CarService\CarService\obj\Debug\net6.0-windows\Views\LoginWindow.g.cs
+C:\Users\User\Desktop\CarService\CarService\obj\Debug\net6.0-windows\Views\MainWindow.g.cs
+C:\Users\User\Desktop\CarService\CarService\obj\Debug\net6.0-windows\Views\SparePartsPage.g.cs
+C:\Users\User\Desktop\CarService\CarService\obj\Debug\net6.0-windows\Views\UpdateCarClientPage.g.cs
+C:\Users\User\Desktop\CarService\CarService\obj\Debug\net6.0-windows\Views\UpdateClientPage.g.cs
+C:\Users\User\Desktop\CarService\CarService\obj\Debug\net6.0-windows\Views\WorkPage.g.cs
+C:\Users\User\Desktop\CarService\CarService\obj\Debug\net6.0-windows\Views\ZakazNaryadPage.g.cs
+C:\Users\User\Desktop\CarService\CarService\obj\Debug\net6.0-windows\Views\ZapchastZakazNaryadPage.g.cs
+C:\Users\User\Desktop\CarService\CarService\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\User\Desktop\CarService\CarService\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\User\Desktop\CarService\CarService\obj\Debug\net6.0-windows\CarService_MarkupCompile.cache
+C:\Users\User\Desktop\CarService\CarService\obj\Debug\net6.0-windows\CarService_MarkupCompile.lref
+C:\Users\User\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarClientFoto\AudiA1.jpg
+C:\Users\User\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarClientFoto\HondaCivic.jpg
+C:\Users\User\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarClientFoto\no_image.jpg
+C:\Users\User\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CarAudiA1(b).jpg
+C:\Users\User\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CarAudiA1(d).jpg
+C:\Users\User\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CarAudiA2(b).jpg
+C:\Users\User\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CarAudiA2(d).jpg
+C:\Users\User\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CarAudiA4(b).jpg
+C:\Users\User\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CarAudiA4(d).jpg
+C:\Users\User\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CarAudiA7(b).jpg
+C:\Users\User\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CarAudiA7(d).jpg
+C:\Users\User\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CarAudiQ3(b).jpg
+C:\Users\User\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CarAudiQ3(d).jpg
+C:\Users\User\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CarAudiTT(b).jpg
+C:\Users\User\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CarAudiTT(d).jpg
+C:\Users\User\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CarChevAstra(b).jpg
+C:\Users\User\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CarChevAstra(d).jpg
+C:\Users\User\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CarChevCamaro(b).jpg
+C:\Users\User\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CarChevCorvette(b).jpg
+C:\Users\User\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CarChevImpala(b).jpg
+C:\Users\User\Desktop\CarService\CarService\bin\Debug\net6.0-windows\CarService.exe
+C:\Users\User\Desktop\CarService\CarService\bin\Debug\net6.0-windows\CarService.deps.json
+C:\Users\User\Desktop\CarService\CarService\bin\Debug\net6.0-windows\CarService.runtimeconfig.json
+C:\Users\User\Desktop\CarService\CarService\bin\Debug\net6.0-windows\CarService.dll
+C:\Users\User\Desktop\CarService\CarService\bin\Debug\net6.0-windows\CarService.pdb
+C:\Users\User\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\User\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\User\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\User\Desktop\CarService\CarService\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+C:\Users\User\Desktop\CarService\CarService\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\User\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\User\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\User\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\User\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\User\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\User\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\User\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\User\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\User\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\User\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\User\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+C:\Users\User\Desktop\CarService\CarService\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Desktop\CarService\CarService\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\User\Desktop\CarService\CarService\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\User\Desktop\CarService\CarService\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\User\Desktop\CarService\CarService\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\User\Desktop\CarService\CarService\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\CarService\CarService\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\CarService\CarService\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\CarService\CarService\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\CarService\CarService\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\CarService\CarService\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\CarService\CarService\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\User\Desktop\CarService\CarService\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\User\Desktop\CarService\CarService\obj\Debug\net6.0-windows\App.baml
+C:\Users\User\Desktop\CarService\CarService\obj\Debug\net6.0-windows\Views\AutoZapchastPage.baml
+C:\Users\User\Desktop\CarService\CarService\obj\Debug\net6.0-windows\Views\CarClientPage.baml
+C:\Users\User\Desktop\CarService\CarService\obj\Debug\net6.0-windows\Views\ClientPage.baml
+C:\Users\User\Desktop\CarService\CarService\obj\Debug\net6.0-windows\Views\LoginWindow.baml
+C:\Users\User\Desktop\CarService\CarService\obj\Debug\net6.0-windows\Views\MainWindow.baml
+C:\Users\User\Desktop\CarService\CarService\obj\Debug\net6.0-windows\Views\SparePartsPage.baml
+C:\Users\User\Desktop\CarService\CarService\obj\Debug\net6.0-windows\Views\UpdateCarClientPage.baml
+C:\Users\User\Desktop\CarService\CarService\obj\Debug\net6.0-windows\Views\UpdateClientPage.baml
+C:\Users\User\Desktop\CarService\CarService\obj\Debug\net6.0-windows\Views\WorkPage.baml
+C:\Users\User\Desktop\CarService\CarService\obj\Debug\net6.0-windows\Views\ZakazNaryadPage.baml
+C:\Users\User\Desktop\CarService\CarService\obj\Debug\net6.0-windows\Views\ZapchastZakazNaryadPage.baml
+C:\Users\User\Desktop\CarService\CarService\obj\Debug\net6.0-windows\CarService.g.resources
+C:\Users\User\Desktop\CarService\CarService\obj\Debug\net6.0-windows\CarService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\CarService\CarService\obj\Debug\net6.0-windows\CarService.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\CarService\CarService\obj\Debug\net6.0-windows\CarService.AssemblyInfo.cs
+C:\Users\User\Desktop\CarService\CarService\obj\Debug\net6.0-windows\CarService.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CarService\CarService\obj\Debug\net6.0-windows\CarService.csproj.CopyComplete
+C:\Users\User\Desktop\CarService\CarService\obj\Debug\net6.0-windows\CarService.dll
+C:\Users\User\Desktop\CarService\CarService\obj\Debug\net6.0-windows\refint\CarService.dll
+C:\Users\User\Desktop\CarService\CarService\obj\Debug\net6.0-windows\CarService.pdb
+C:\Users\User\Desktop\CarService\CarService\obj\Debug\net6.0-windows\CarService.genruntimeconfig.cache
+C:\Users\User\Desktop\CarService\CarService\obj\Debug\net6.0-windows\ref\CarService.dll
+C:\Users\KDFX Team\Desktop\курсач\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\Views\ZapchastZakazNaryadPage.baml
+C:\Users\KDFX Team\Desktop\курсач\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\Views\WorkZakazNaryadPage.g.cs
+C:\Users\KDFX Team\Desktop\курсач\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\Views\WorkZakazNaryadPage.baml
+C:\Users\KDFX Team\Desktop\курсач\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\Views\UpdateZakazNaryadPage.g.cs
+C:\Users\KDFX Team\Desktop\курсач\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\Views\UpdateZakazNaryadPage.baml
+C:\Users\KDFX Team\Desktop\курсач\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\Views\UpdateZapchastZakazNaryadPage.g.cs
+C:\Users\KDFX Team\Desktop\курсач\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\Views\UpdateZapchastZakazNaryadPage.baml
+C:\Users\KDFX Team\Desktop\курсач\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\Views\UpdateWorkZakazNaryadPage.g.cs
+C:\Users\KDFX Team\Desktop\курсач\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\Views\ZapchastPage.g.cs
+C:\Users\KDFX Team\Desktop\курсач\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\Views\UpdateWorkZakazNaryadPage.baml
+C:\Users\KDFX Team\Desktop\курсач\Программа по курсовой\CarService\CarService\obj\Debug\net6.0-windows\Views\ZapchastPage.baml
+C:\Users\KDFX Team\Desktop\курсач\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarClientFoto\BMWX4.jpg
+C:\Users\KDFX Team\Desktop\курсач\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarClientFoto\CheryJ11.jpg
+C:\Users\KDFX Team\Desktop\курсач\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarClientFoto\CheryVery.jpg
+C:\Users\KDFX Team\Desktop\курсач\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarClientFoto\DODGEChellenger.jpg
+C:\Users\KDFX Team\Desktop\курсач\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarClientFoto\FordFiesta.jpg
+C:\Users\KDFX Team\Desktop\курсач\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarClientFoto\HyundaiSonata.jpg
+C:\Users\KDFX Team\Desktop\курсач\Программа по курсовой\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarClientFoto\InfinityM35.jpg
+C:\Users\User\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarClientFoto\BMWX4.jpg
+C:\Users\User\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarClientFoto\CheryJ11.jpg
+C:\Users\User\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarClientFoto\CheryVery.jpg
+C:\Users\User\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarClientFoto\DODGEChellenger.jpg
+C:\Users\User\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarClientFoto\FordFiesta.jpg
+C:\Users\User\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarClientFoto\HyundaiSonata.jpg
+C:\Users\User\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarClientFoto\InfinityM35.jpg
+C:\Users\User\Desktop\CarService\CarService\obj\Debug\net6.0-windows\Views\UpdateWorkZakazNaryadPage.g.cs
+C:\Users\User\Desktop\CarService\CarService\obj\Debug\net6.0-windows\Views\UpdateZakazNaryadPage.g.cs
+C:\Users\User\Desktop\CarService\CarService\obj\Debug\net6.0-windows\Views\UpdateZapchastZakazNaryadPage.g.cs
+C:\Users\User\Desktop\CarService\CarService\obj\Debug\net6.0-windows\Views\WorkZakazNaryadPage.g.cs
+C:\Users\User\Desktop\CarService\CarService\obj\Debug\net6.0-windows\Views\ZapchastPage.g.cs
+C:\Users\User\Desktop\CarService\CarService\obj\Debug\net6.0-windows\Views\UpdateWorkZakazNaryadPage.baml
+C:\Users\User\Desktop\CarService\CarService\obj\Debug\net6.0-windows\Views\UpdateZakazNaryadPage.baml
+C:\Users\User\Desktop\CarService\CarService\obj\Debug\net6.0-windows\Views\UpdateZapchastZakazNaryadPage.baml
+C:\Users\User\Desktop\CarService\CarService\obj\Debug\net6.0-windows\Views\WorkZakazNaryadPage.baml
+C:\Users\User\Desktop\CarService\CarService\obj\Debug\net6.0-windows\Views\ZapchastPage.baml
+C:\Users\User\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarClientFoto\1200x900.jpg
+C:\Users\User\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarClientFoto\179328.jpg
+C:\Users\User\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarClientFoto\2010-chevrolet-camaro-ss-silver-1.jpg
+C:\Users\User\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarClientFoto\224693_Front_3-4_Web.jpg
+C:\Users\User\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarClientFoto\294254_10100214310487018_15712800_46788287_1422117386_n.jpg
+C:\Users\User\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarClientFoto\543a13a919aa8218f4dbe2c8878da48e.jpg
+C:\Users\User\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarClientFoto\55576.jpg
+C:\Users\User\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarClientFoto\59594_001_M.jpg
+C:\Users\User\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarClientFoto\730b8643-kia-k9-quoris-2625255b225255d.jpg
+C:\Users\User\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarClientFoto\7601.jpg
+C:\Users\User\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarClientFoto\906a8du-960.jpg
+C:\Users\User\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarClientFoto\Audi_A2.jpg
+C:\Users\User\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarClientFoto\bIAAAgFAouA-960.jpg
+C:\Users\User\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarClientFoto\cae60a4s-960.jpg
+C:\Users\User\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarClientFoto\ff8f30b5525a1374b0f3fc2db982048f.jpg
+C:\Users\User\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarClientFoto\FORD-FOCUS-MK3-2014-2018-ZASL.jpg
+C:\Users\User\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarClientFoto\foto-camry-v70-cveta_14-768x512.jpg
+C:\Users\User\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarClientFoto\hondc333.jpg
+C:\Users\User\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarClientFoto\IQAAAgOyPuA-960.jpg
+C:\Users\User\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarClientFoto\xQAAAgPNYOA-960.jpg
+C:\Users\User\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\1200x900.jpg
+C:\Users\User\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\17d5298db82cded04505f6d434b3c5e3.jpg
+C:\Users\User\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\2.jpg
+C:\Users\User\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\2004-infiniti-i35-1300749-9970495.jpg
+C:\Users\User\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\2012-honda-accord-euro-manual-review_4af24.jpg
+C:\Users\User\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\2017-volkswagen-polo-urban-line-australia-9.jpg
+C:\Users\User\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\2019-Toyota-Corolla-Ascent-Sport-Hybrid-Front.jpg
+C:\Users\User\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\21.jpg
+C:\Users\User\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\2366.jpg
+C:\Users\User\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\2f605bed7af9b3c00845c99d524b9a3d.jpg
+C:\Users\User\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\3368.jpg
+C:\Users\User\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\43471.jpg
+C:\Users\User\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\49304.jpg
+C:\Users\User\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\670c149facbdafa7bb09bac92d9e53e0.jpg
+C:\Users\User\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\85f71f4b7ede8ac6805916d8d4874009.jpg
+C:\Users\User\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\autowpru-ford-fiesta-5-door-18-result.jpg
+C:\Users\User\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\bmw-1er-f21.jpg
+C:\Users\User\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\bmw-3.jpg
+C:\Users\User\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\bmwe39.jpg
+C:\Users\User\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\BMWe46b.jpg
+C:\Users\User\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\BMWe46d.jpg
+C:\Users\User\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\BMWE81.jpg
+C:\Users\User\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\BMWE81D.jpg
+C:\Users\User\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\BMWx4D.jpg
+C:\Users\User\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CHALLENGER.jpg
+C:\Users\User\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CHARGER.jpg
+C:\Users\User\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CheryArrizo3.jpg
+C:\Users\User\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\cheryarrizo7.jpg
+C:\Users\User\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\cheryCeler.jpg
+C:\Users\User\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CHERYCIELO.jpg
+C:\Users\User\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CheryE5.jpg
+C:\Users\User\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CheryJ11.jpg
+C:\Users\User\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CheryM11.jpg
+C:\Users\User\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CheryVery.jpg
+C:\Users\User\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\DODGE-Avenger.jpg
+C:\Users\User\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\e2219337a2aff1c23bc5d67b5fa2fed21b4f2ed2-1536x1015.jpg
+C:\Users\User\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\E34.jpg
+C:\Users\User\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\e3f779c33b88612d72a6fdcd274a6255.jpg
+C:\Users\User\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\Ford_EcoSport_(1).jpg
+C:\Users\User\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\foto-camry-2019_01-2048x1366.jpg
+C:\Users\User\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\h-solaris.jpg
+C:\Users\User\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\hyundai-santro-front-7b2d.jpg
+C:\Users\User\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\images_honda_inspire_1995_1.jpg
+C:\Users\User\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\imgpreview.jpg
+C:\Users\User\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\Infiniti-M35-2007-1920x1200-002.jpg
+C:\Users\User\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\kia-rio-sedan-2013.jpg
+C:\Users\User\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\maxresdefault.jpg
+C:\Users\User\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\Mitsubishi_FTO_GPX_'97.jpg
+C:\Users\User\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\nissan-fuga.jpg
+C:\Users\User\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\nissan_bassara_a1252127509b3004391_orig.jpg
+C:\Users\User\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\renoka043.jpg
+C:\Users\User\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\Skoda-Fabia-2018-2560x1600-002.jpg
+C:\Users\User\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\t0AAAgLdIOA-960.jpg
+C:\Users\User\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\toytm152.jpg
+C:\Users\User\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\x1015314138.jpg.pagespeed.ic.Hpcgd7vpTl.jpg
+C:\Users\User\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\BMWoriginal-1r7d.jpg
+C:\Users\User\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\kakoj-renault-logan-ii-luchshe-vybrat-5.jpg
+C:\Users\User\Desktop\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarClientFoto\00_kia_k5_3_0.jpg
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarClientFoto\00_kia_k5_3_0.jpg
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarClientFoto\1200x900.jpg
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarClientFoto\179328.jpg
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarClientFoto\2010-chevrolet-camaro-ss-silver-1.jpg
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarClientFoto\224693_Front_3-4_Web.jpg
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarClientFoto\294254_10100214310487018_15712800_46788287_1422117386_n.jpg
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarClientFoto\543a13a919aa8218f4dbe2c8878da48e.jpg
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarClientFoto\55576.jpg
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarClientFoto\59594_001_M.jpg
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarClientFoto\730b8643-kia-k9-quoris-2625255b225255d.jpg
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarClientFoto\7601.jpg
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarClientFoto\906a8du-960.jpg
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarClientFoto\AudiA1.jpg
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarClientFoto\Audi_A2.jpg
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarClientFoto\bIAAAgFAouA-960.jpg
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarClientFoto\BMWX4.jpg
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarClientFoto\cae60a4s-960.jpg
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarClientFoto\CheryJ11.jpg
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarClientFoto\CheryVery.jpg
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarClientFoto\DODGEChellenger.jpg
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarClientFoto\ff8f30b5525a1374b0f3fc2db982048f.jpg
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarClientFoto\FORD-FOCUS-MK3-2014-2018-ZASL.jpg
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarClientFoto\FordFiesta.jpg
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarClientFoto\foto-camry-v70-cveta_14-768x512.jpg
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarClientFoto\HondaCivic.jpg
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarClientFoto\hondc333.jpg
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarClientFoto\HyundaiSonata.jpg
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarClientFoto\InfinityM35.jpg
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarClientFoto\IQAAAgOyPuA-960.jpg
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarClientFoto\no_image.jpg
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarClientFoto\xQAAAgPNYOA-960.jpg
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\1200x900.jpg
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\17d5298db82cded04505f6d434b3c5e3.jpg
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\2.jpg
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\2004-infiniti-i35-1300749-9970495.jpg
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\2012-honda-accord-euro-manual-review_4af24.jpg
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\2017-volkswagen-polo-urban-line-australia-9.jpg
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\2019-Toyota-Corolla-Ascent-Sport-Hybrid-Front.jpg
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\21.jpg
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\2366.jpg
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\2f605bed7af9b3c00845c99d524b9a3d.jpg
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\3368.jpg
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\43471.jpg
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\49304.jpg
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\670c149facbdafa7bb09bac92d9e53e0.jpg
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\85f71f4b7ede8ac6805916d8d4874009.jpg
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\autowpru-ford-fiesta-5-door-18-result.jpg
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\bmw-1er-f21.jpg
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\bmw-3.jpg
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\bmwe39.jpg
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\BMWe46b.jpg
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\BMWe46d.jpg
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\BMWE81.jpg
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\BMWE81D.jpg
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\BMWoriginal-1r7d.jpg
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\BMWx4D.jpg
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CarAudiA1(b).jpg
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CarAudiA1(d).jpg
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CarAudiA2(b).jpg
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CarAudiA2(d).jpg
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CarAudiA4(b).jpg
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CarAudiA4(d).jpg
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CarAudiA7(b).jpg
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CarAudiA7(d).jpg
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CarAudiQ3(b).jpg
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CarAudiQ3(d).jpg
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CarAudiTT(b).jpg
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CarAudiTT(d).jpg
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CarChevAstra(b).jpg
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CarChevAstra(d).jpg
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CarChevCamaro(b).jpg
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CarChevCorvette(b).jpg
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CarChevImpala(b).jpg
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CHALLENGER.jpg
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CHARGER.jpg
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CheryArrizo3.jpg
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\cheryarrizo7.jpg
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\cheryCeler.jpg
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CHERYCIELO.jpg
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CheryE5.jpg
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CheryJ11.jpg
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CheryM11.jpg
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CheryVery.jpg
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\DODGE-Avenger.jpg
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\e2219337a2aff1c23bc5d67b5fa2fed21b4f2ed2-1536x1015.jpg
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\E34.jpg
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\e3f779c33b88612d72a6fdcd274a6255.jpg
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\Ford_EcoSport_(1).jpg
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\foto-camry-2019_01-2048x1366.jpg
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\h-solaris.jpg
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\hyundai-santro-front-7b2d.jpg
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\images_honda_inspire_1995_1.jpg
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\imgpreview.jpg
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\Infiniti-M35-2007-1920x1200-002.jpg
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\kakoj-renault-logan-ii-luchshe-vybrat-5.jpg
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\kia-rio-sedan-2013.jpg
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\maxresdefault.jpg
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\Mitsubishi_FTO_GPX_'97.jpg
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\nissan-fuga.jpg
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\nissan_bassara_a1252127509b3004391_orig.jpg
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\renoka043.jpg
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\Skoda-Fabia-2018-2560x1600-002.jpg
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\t0AAAgLdIOA-960.jpg
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\toytm152.jpg
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\x1015314138.jpg.pagespeed.ic.Hpcgd7vpTl.jpg
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\bin\Debug\net6.0-windows\CarService.exe
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\bin\Debug\net6.0-windows\CarService.deps.json
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\bin\Debug\net6.0-windows\CarService.runtimeconfig.json
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\bin\Debug\net6.0-windows\CarService.dll
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\bin\Debug\net6.0-windows\CarService.pdb
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\obj\Debug\net6.0-windows\CarService.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\obj\Debug\net6.0-windows\Views\AutoZapchastPage.g.cs
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\obj\Debug\net6.0-windows\Views\CarClientPage.g.cs
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\obj\Debug\net6.0-windows\Views\ClientPage.g.cs
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\obj\Debug\net6.0-windows\Views\LoginWindow.g.cs
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\obj\Debug\net6.0-windows\Views\MainWindow.g.cs
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\obj\Debug\net6.0-windows\Views\SparePartsPage.g.cs
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\obj\Debug\net6.0-windows\Views\UpdateCarClientPage.g.cs
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\obj\Debug\net6.0-windows\Views\UpdateClientPage.g.cs
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\obj\Debug\net6.0-windows\Views\UpdateWorkZakazNaryadPage.g.cs
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\obj\Debug\net6.0-windows\Views\UpdateZakazNaryadPage.g.cs
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\obj\Debug\net6.0-windows\Views\UpdateZapchastZakazNaryadPage.g.cs
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\obj\Debug\net6.0-windows\Views\WorkPage.g.cs
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\obj\Debug\net6.0-windows\Views\WorkZakazNaryadPage.g.cs
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\obj\Debug\net6.0-windows\Views\ZakazNaryadPage.g.cs
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\obj\Debug\net6.0-windows\Views\ZapchastPage.g.cs
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\obj\Debug\net6.0-windows\Views\ZapchastZakazNaryadPage.g.cs
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\obj\Debug\net6.0-windows\CarService_MarkupCompile.cache
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\obj\Debug\net6.0-windows\CarService_MarkupCompile.lref
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\obj\Debug\net6.0-windows\App.baml
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\obj\Debug\net6.0-windows\Views\AutoZapchastPage.baml
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\obj\Debug\net6.0-windows\Views\CarClientPage.baml
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\obj\Debug\net6.0-windows\Views\ClientPage.baml
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\obj\Debug\net6.0-windows\Views\LoginWindow.baml
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\obj\Debug\net6.0-windows\Views\MainWindow.baml
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\obj\Debug\net6.0-windows\Views\SparePartsPage.baml
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\obj\Debug\net6.0-windows\Views\UpdateCarClientPage.baml
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\obj\Debug\net6.0-windows\Views\UpdateClientPage.baml
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\obj\Debug\net6.0-windows\Views\UpdateWorkZakazNaryadPage.baml
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\obj\Debug\net6.0-windows\Views\UpdateZakazNaryadPage.baml
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\obj\Debug\net6.0-windows\Views\UpdateZapchastZakazNaryadPage.baml
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\obj\Debug\net6.0-windows\Views\WorkPage.baml
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\obj\Debug\net6.0-windows\Views\WorkZakazNaryadPage.baml
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\obj\Debug\net6.0-windows\Views\ZakazNaryadPage.baml
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\obj\Debug\net6.0-windows\Views\ZapchastPage.baml
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\obj\Debug\net6.0-windows\Views\ZapchastZakazNaryadPage.baml
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\obj\Debug\net6.0-windows\CarService.g.resources
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\obj\Debug\net6.0-windows\CarService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\obj\Debug\net6.0-windows\CarService.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\obj\Debug\net6.0-windows\CarService.AssemblyInfo.cs
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\obj\Debug\net6.0-windows\CarService.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\obj\Debug\net6.0-windows\CarService.csproj.CopyComplete
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\obj\Debug\net6.0-windows\CarService.dll
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\obj\Debug\net6.0-windows\refint\CarService.dll
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\obj\Debug\net6.0-windows\CarService.pdb
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\obj\Debug\net6.0-windows\CarService.genruntimeconfig.cache
+C:\Users\User\Desktop\Курсовая Ника\CarService\CarService\obj\Debug\net6.0-windows\ref\CarService.dll
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarClientFoto\00_kia_k5_3_0.jpg
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarClientFoto\1200x900.jpg
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarClientFoto\179328.jpg
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarClientFoto\2010-chevrolet-camaro-ss-silver-1.jpg
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarClientFoto\224693_Front_3-4_Web.jpg
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarClientFoto\294254_10100214310487018_15712800_46788287_1422117386_n.jpg
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarClientFoto\543a13a919aa8218f4dbe2c8878da48e.jpg
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarClientFoto\55576.jpg
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarClientFoto\59594_001_M.jpg
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarClientFoto\730b8643-kia-k9-quoris-2625255b225255d.jpg
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarClientFoto\7601.jpg
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarClientFoto\906a8du-960.jpg
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarClientFoto\AudiA1.jpg
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarClientFoto\Audi_A2.jpg
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarClientFoto\bIAAAgFAouA-960.jpg
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarClientFoto\BMWX4.jpg
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarClientFoto\cae60a4s-960.jpg
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarClientFoto\CheryJ11.jpg
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarClientFoto\CheryVery.jpg
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarClientFoto\DODGEChellenger.jpg
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarClientFoto\ff8f30b5525a1374b0f3fc2db982048f.jpg
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarClientFoto\FORD-FOCUS-MK3-2014-2018-ZASL.jpg
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarClientFoto\FordFiesta.jpg
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarClientFoto\foto-camry-v70-cveta_14-768x512.jpg
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarClientFoto\HondaCivic.jpg
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarClientFoto\hondc333.jpg
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarClientFoto\HyundaiSonata.jpg
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarClientFoto\InfinityM35.jpg
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarClientFoto\IQAAAgOyPuA-960.jpg
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarClientFoto\no_image.jpg
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarClientFoto\xQAAAgPNYOA-960.jpg
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\1200x900.jpg
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\17d5298db82cded04505f6d434b3c5e3.jpg
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\2.jpg
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\2004-infiniti-i35-1300749-9970495.jpg
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\2012-honda-accord-euro-manual-review_4af24.jpg
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\2017-volkswagen-polo-urban-line-australia-9.jpg
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\2019-Toyota-Corolla-Ascent-Sport-Hybrid-Front.jpg
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\21.jpg
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\2366.jpg
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\2f605bed7af9b3c00845c99d524b9a3d.jpg
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\3368.jpg
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\43471.jpg
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\49304.jpg
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\670c149facbdafa7bb09bac92d9e53e0.jpg
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\85f71f4b7ede8ac6805916d8d4874009.jpg
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\autowpru-ford-fiesta-5-door-18-result.jpg
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\bmw-1er-f21.jpg
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\bmw-3.jpg
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\bmwe39.jpg
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\BMWe46b.jpg
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\BMWe46d.jpg
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\BMWE81.jpg
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\BMWE81D.jpg
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\BMWoriginal-1r7d.jpg
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\BMWx4D.jpg
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CarAudiA1(b).jpg
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CarAudiA1(d).jpg
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CarAudiA2(b).jpg
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CarAudiA2(d).jpg
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CarAudiA4(b).jpg
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CarAudiA4(d).jpg
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CarAudiA7(b).jpg
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CarAudiA7(d).jpg
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CarAudiQ3(b).jpg
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CarAudiQ3(d).jpg
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CarAudiTT(b).jpg
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CarAudiTT(d).jpg
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CarChevAstra(b).jpg
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CarChevAstra(d).jpg
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CarChevCamaro(b).jpg
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CarChevCorvette(b).jpg
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CarChevImpala(b).jpg
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CHALLENGER.jpg
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CHARGER.jpg
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CheryArrizo3.jpg
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\cheryarrizo7.jpg
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\cheryCeler.jpg
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CHERYCIELO.jpg
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CheryE5.jpg
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CheryJ11.jpg
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CheryM11.jpg
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\CheryVery.jpg
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\DODGE-Avenger.jpg
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\e2219337a2aff1c23bc5d67b5fa2fed21b4f2ed2-1536x1015.jpg
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\E34.jpg
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\e3f779c33b88612d72a6fdcd274a6255.jpg
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\Ford_EcoSport_(1).jpg
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\foto-camry-2019_01-2048x1366.jpg
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\h-solaris.jpg
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\hyundai-santro-front-7b2d.jpg
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\images_honda_inspire_1995_1.jpg
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\imgpreview.jpg
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\Infiniti-M35-2007-1920x1200-002.jpg
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\kakoj-renault-logan-ii-luchshe-vybrat-5.jpg
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\kia-rio-sedan-2013.jpg
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\maxresdefault.jpg
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\Mitsubishi_FTO_GPX_'97.jpg
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\nissan-fuga.jpg
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\nissan_bassara_a1252127509b3004391_orig.jpg
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\renoka043.jpg
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\Skoda-Fabia-2018-2560x1600-002.jpg
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\t0AAAgLdIOA-960.jpg
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\toytm152.jpg
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\bin\Debug\net6.0-windows\Assets\CarFoto\x1015314138.jpg.pagespeed.ic.Hpcgd7vpTl.jpg
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\bin\Debug\net6.0-windows\CarService.exe
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\bin\Debug\net6.0-windows\CarService.deps.json
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\bin\Debug\net6.0-windows\CarService.runtimeconfig.json
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\bin\Debug\net6.0-windows\CarService.dll
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\bin\Debug\net6.0-windows\CarService.pdb
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\obj\Debug\net6.0-windows\CarService.csproj.AssemblyReference.cache
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\obj\Debug\net6.0-windows\Views\AutoZapchastPage.g.cs
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\obj\Debug\net6.0-windows\Views\CarClientPage.g.cs
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\obj\Debug\net6.0-windows\Views\ClientPage.g.cs
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\obj\Debug\net6.0-windows\Views\LoginWindow.g.cs
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\obj\Debug\net6.0-windows\Views\MainWindow.g.cs
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\obj\Debug\net6.0-windows\Views\SparePartsPage.g.cs
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\obj\Debug\net6.0-windows\Views\UpdateCarClientPage.g.cs
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\obj\Debug\net6.0-windows\Views\UpdateClientPage.g.cs
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\obj\Debug\net6.0-windows\Views\UpdateWorkZakazNaryadPage.g.cs
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\obj\Debug\net6.0-windows\Views\UpdateZakazNaryadPage.g.cs
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\obj\Debug\net6.0-windows\Views\UpdateZapchastZakazNaryadPage.g.cs
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\obj\Debug\net6.0-windows\Views\WorkPage.g.cs
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\obj\Debug\net6.0-windows\Views\WorkZakazNaryadPage.g.cs
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\obj\Debug\net6.0-windows\Views\ZakazNaryadPage.g.cs
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\obj\Debug\net6.0-windows\Views\ZapchastPage.g.cs
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\obj\Debug\net6.0-windows\Views\ZapchastZakazNaryadPage.g.cs
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\obj\Debug\net6.0-windows\CarService_MarkupCompile.cache
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\obj\Debug\net6.0-windows\CarService_MarkupCompile.lref
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\obj\Debug\net6.0-windows\App.baml
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\obj\Debug\net6.0-windows\Views\AutoZapchastPage.baml
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\obj\Debug\net6.0-windows\Views\CarClientPage.baml
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\obj\Debug\net6.0-windows\Views\ClientPage.baml
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\obj\Debug\net6.0-windows\Views\LoginWindow.baml
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\obj\Debug\net6.0-windows\Views\MainWindow.baml
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\obj\Debug\net6.0-windows\Views\SparePartsPage.baml
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\obj\Debug\net6.0-windows\Views\UpdateCarClientPage.baml
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\obj\Debug\net6.0-windows\Views\UpdateClientPage.baml
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\obj\Debug\net6.0-windows\Views\UpdateWorkZakazNaryadPage.baml
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\obj\Debug\net6.0-windows\Views\UpdateZakazNaryadPage.baml
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\obj\Debug\net6.0-windows\Views\UpdateZapchastZakazNaryadPage.baml
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\obj\Debug\net6.0-windows\Views\WorkPage.baml
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\obj\Debug\net6.0-windows\Views\WorkZakazNaryadPage.baml
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\obj\Debug\net6.0-windows\Views\ZakazNaryadPage.baml
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\obj\Debug\net6.0-windows\Views\ZapchastPage.baml
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\obj\Debug\net6.0-windows\Views\ZapchastZakazNaryadPage.baml
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\obj\Debug\net6.0-windows\CarService.g.resources
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\obj\Debug\net6.0-windows\CarService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\obj\Debug\net6.0-windows\CarService.AssemblyInfoInputs.cache
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\obj\Debug\net6.0-windows\CarService.AssemblyInfo.cs
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\obj\Debug\net6.0-windows\CarService.csproj.CoreCompileInputs.cache
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\obj\Debug\net6.0-windows\CarService.csproj.CopyComplete
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\obj\Debug\net6.0-windows\CarService.dll
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\obj\Debug\net6.0-windows\refint\CarService.dll
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\obj\Debug\net6.0-windows\CarService.pdb
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\obj\Debug\net6.0-windows\CarService.genruntimeconfig.cache
+C:\Users\Вероника\Desktop\sobes\CarService\CarService\obj\Debug\net6.0-windows\ref\CarService.dll

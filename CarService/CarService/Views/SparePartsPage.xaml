@@ -1,0 +1,72 @@
+﻿<Page x:Class="CarService.Views.SparePartsPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      DataContext="{Binding Mode=OneWay, RelativeSource={RelativeSource Self}}"
+      xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:CarService.Views"
+      mc:Ignorable="d" 
+      d:DesignHeight="800" d:DesignWidth="800"
+      Title="Запчасти">
+    <DockPanel>
+        <Label DockPanel.Dock="Top" FontSize="35" FontWeight="Bold" Content="Запчасти" Margin="0 0 0 25"  />
+        <StackPanel Orientation="Horizontal" 
+                    Background="{DynamicResource SecondaryHueMidBrush}" 
+            DockPanel.Dock="Top">
+            <Label Content="Марка: " FontSize="18" VerticalAlignment="Center" />
+            <TextBox Width="200" x:Name="searchMarkaTextBox" TextChanged="searchMarka"
+             Style="{DynamicResource MaterialDesignOutlinedTextBox}" />
+            <Label Content="Модель: " FontSize="18" VerticalAlignment="Center" />
+            <TextBox Width="200" x:Name="searchModelTextBox" TextChanged="searchModel"
+             Style="{DynamicResource MaterialDesignOutlinedTextBox}" />
+            <Label Content="Двигатель: " FontSize="18" VerticalAlignment="Center" />
+            <ComboBox Width="200" x:Name="sortingTypeComboBox" SelectionChanged="searchType"
+             Style="{DynamicResource MaterialDesignOutlinedComboBox}" >
+                <ComboBoxItem Content="Не сортировать"/>
+                <ComboBoxItem Content="Безиновый"/>
+                <ComboBoxItem Content="Дизельный"/>
+            </ComboBox>
+        </StackPanel>
+        <StatusBar DockPanel.Dock="Bottom" Background="{DynamicResource SecondaryHueMidBrush}" >
+            <TextBlock>
+        Показано <Run Text="{Binding CurrentCount}" /> из <Run Text="{Binding TotalCount}"/> записей
+            </TextBlock>
+        </StatusBar>
+        <ListView Grid.Row="1" ScrollViewer.HorizontalScrollBarVisibility="Disabled" HorizontalAlignment="Center" ItemsSource="{Binding Cars}"  d:ItemsSource="{d:SampleData ItemCount=5}">
+            <ListView.ItemsPanel>
+                <ItemsPanelTemplate>
+                    <WrapPanel Orientation="Horizontal" HorizontalAlignment="Center"/>
+                </ItemsPanelTemplate>
+            </ListView.ItemsPanel>
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <Border BorderThickness="2" BorderBrush="Navy" CornerRadius="5">
+                        <Grid Width="300" Margin="20">
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="200" />
+                                <RowDefinition Height="110"/>
+                                <RowDefinition Height="40"/>
+                                <RowDefinition Height="auto"/>
+                            </Grid.RowDefinitions>
+                            <Image Width="300" Height="200" Grid.Row="0"  Stretch="Fill" Source="{Binding imageCar, Converter={StaticResource imageCarAutoConverter}}" />
+                            <StackPanel Grid.Row="1" Margin="7" Grid.Column="1" HorizontalAlignment="Center">
+                                <TextBlock FontSize="22" TextWrapping="Wrap" >
+                                    <Run FontWeight="SemiBold" Text="{Binding Marka}" FontFamily="Myanmar Text"/>
+                                    <LineBreak />
+                                    <Run Text="{Binding Model}" FontFamily="Bahnschrift Light"  /> 
+                                    <LineBreak />
+                                    <TextBlock FontSize="14">
+                                        Тип двигателя:
+                                        <Run Text="{Binding TypeEngine}"/> 
+                                    </TextBlock>
+                                </TextBlock>
+                            </StackPanel>
+                            <Button Grid.Row="2" Content="Выбрать" Width="90" Height="30" Background="Teal" Click="MyListView_MouseLeftButtonUp" BorderBrush="Navy" BorderThickness="1"/>
+                        </Grid>
+                    </Border>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </DockPanel>
+</Page>
